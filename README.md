@@ -2,6 +2,8 @@
 
 ## Descripción del proyecto
 
+Proyecto de Ciencia de Datos orientado a analizar la evolución de las ventas presenciales y online en supermercados argentinos, con el objetivo de identificar tendencias que apoyen la planificación logística y la asignación de recursos.
+
 La transformación digital también ha cambiado la forma en que las personas realizan sus compras de supermercado. Mientras una parte de los clientes continúa comprando de manera presencial, cada vez más consumidores utilizan canales online para recibir sus pedidos en sus hogares.
 
 Este cambio genera un desafío para las áreas de Logística y Recursos Humanos: planificar correctamente la dotación de personal necesaria para atender ambos canales de venta.
@@ -47,7 +49,7 @@ Estos resultados sugieren que las empresas del sector deberían considerar una p
 
 ## Arquitectura de la Solución
 
-Aunque el análisis fue desarrollado en Jupyter Notebook, la propuesta fue pensada como una herramienta que pueda ser utilizada por perfiles de negocio sin necesidad de interactuar con código.
+[Ver diagrama de flujo de datos](canales-venta.png)
 
 La arquitectura sigue un enfoque basado en servicios separados, donde cada componente cumple una función específica dentro del flujo de procesamiento y análisis de datos.
 
