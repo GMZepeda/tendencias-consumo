@@ -1,8 +1,8 @@
 # Optimización Logística y Predicción de Demanda en Supermercados
 
-## Descripción del proyecto
-
 Proyecto de Ciencia de Datos orientado a analizar la evolución de las ventas presenciales y online en supermercados argentinos, con el objetivo de identificar tendencias que apoyen la planificación logística y la asignación de recursos.
+
+## Descripción del proyecto
 
 La transformación digital también ha cambiado la forma en que las personas realizan sus compras de supermercado. Mientras una parte de los clientes continúa comprando de manera presencial, cada vez más consumidores utilizan canales online para recibir sus pedidos en sus hogares.
 
