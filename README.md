@@ -29,6 +29,7 @@ El proyecto se desarrolló siguiendo un flujo de trabajo típico de Ciencia de D
 4. Análisis exploratorio de tendencias.
 5. Construcción de un modelo de Regresión Lineal para identificar el crecimiento del canal online a lo largo del tiempo.
 6. Interpretación de resultados desde una perspectiva de negocio.
+[Ver Notebook en Google Colab](https://colab.research.google.com/github/GMZepeda/tendencias-consumo/blob/main/analisis_ventas.ipynb)
 
 ## Principales hallazgos
 
