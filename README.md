@@ -70,7 +70,6 @@ La capa analítica utiliza **Scikit-Learn** para entrenar un modelo de **Regresi
 
 El desarrollo y mantenimiento del proyecto se gestionaron mediante **Git** y **GitHub**, facilitando el seguimiento de cambios, la documentación y la colaboración.
 
-Para una representación visual del flujo completo de datos y procesamiento, puede consultarse el diagrama incluido en el repositorio (`canales-venta.png`).
 
 ## Limitaciones
 
