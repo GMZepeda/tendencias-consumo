@@ -17,7 +17,7 @@ if archivo_subido is not None:
         meses_futuro = st.slider("¿Cuántos meses a futuro desea proyectar?", min_value=1, max_value=24, value=10)
                 
         if st.button("Calcular Proyección"):
-            api_url = "http://127.0.0.1:8000/predecir"
+            api_url = "https://gmzepeda-api-ventas-backend.hf.space/predecir"
             
             # Preparamos el archivo y los datos para el envío masivo (Multipart)
             archivo_subido.seek(0)
