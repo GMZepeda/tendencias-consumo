@@ -1,4 +1,5 @@
 # Optimización Logística y Predicción de Demanda en Supermercados
+*Prueba el simulador interactivo para asignación de logística aquí:** [[URL Streamlit Cloud](https://tendencias-consumo-3nzubedtwzxvda4dqzm49n.streamlit.app/)]
 
 Proyecto de Ciencia de Datos orientado a analizar la evolución de las ventas presenciales y online en supermercados argentinos, con el objetivo de identificar tendencias que apoyen la planificación logística y la asignación de recursos.
 
@@ -30,6 +31,8 @@ El proyecto se desarrolló siguiendo un flujo de trabajo típico de Ciencia de D
 5. Construcción de un modelo de Regresión Lineal para identificar el crecimiento del canal online a lo largo del tiempo [Ver Notebook en Google Colab](https://colab.research.google.com/github/GMZepeda/tendencias-consumo/blob/main/analisis_ventas.ipynb).
 6. Interpretación de resultados desde una perspectiva de negocio.
 
+**Decisión técnica frente a la inflación:**
+Para resolver el problema del impacto inflacionario presente en los datos históricos, se tomó la decisión técnica de no predecir valores monetarios nominales. En su lugar, el modelo calcula y proyecta el porcentaje de ventas online sobre el volumen total. Trabajar con proporciones permite cancelar matemáticamente el sesgo de la inflación y estabilizar la Regresión Lineal, reflejando el cambio real en los hábitos del consumidor.
 
 ## Principales hallazgos
 
