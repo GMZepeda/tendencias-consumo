@@ -1,5 +1,5 @@
 # Optimización Logística y Predicción de Demanda en Supermercados
-*Prueba el simulador interactivo para asignación de logística aquí:** [[URL Streamlit Cloud](https://tendencias-consumo-3nzubedtwzxvda4dqzm49n.streamlit.app/)]
+**Prueba el simulador interactivo para asignación de logística aquí:** [[URL Streamlit Cloud](https://tendencias-consumo-3nzubedtwzxvda4dqzm49n.streamlit.app/)]
 
 Proyecto de Ciencia de Datos orientado a analizar la evolución de las ventas presenciales y online en supermercados argentinos, con el objetivo de identificar tendencias que apoyen la planificación logística y la asignación de recursos.
 
