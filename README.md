@@ -11,14 +11,14 @@ Este cambio genera un desafío para las áreas de Logística y Recursos Humanos:
 
 El objetivo de este proyecto es analizar la evolución de las ventas presenciales y online en supermercados argentinos y construir un modelo predictivo que permita estimar la tendencia futura de cada canal. Esta información puede servir como apoyo para decisiones relacionadas con la asignación de personal, la planificación operativa y la distribución de recursos.
 
-## Fuente de datos
+### Fuente de datos
+Se utilizó información pública proveniente del conjunto de datos "Ventas totales en supermercados a valores corrientes y constantes", publicado por la Subsecretaría de Programación Macroeconómica a través del portal Datos Argentina. 
 
-Se utilizó información pública proveniente del conjunto de datos **"Ventas totales en supermercados a valores corrientes y constantes y evolución por canal de venta, medio de pago y grupos de artículos"**, publicado por la Subsecretaría de Programación Macroeconómica a través del portal Datos Argentina.
+[Acceder al dataset oficial aquí](https://www.datos.gob.ar/dataset/sspm-ventas-supermercados/archivo/sspm_455.1)
 
 El análisis se centra en la evolución de las variables:
-
-* `salon_ventas`
-* `canales_on_line`
+- `salon_ventas`
+- `canales_on_line`
 
 ## Metodología
 
